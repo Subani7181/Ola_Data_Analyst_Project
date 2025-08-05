@@ -1,4 +1,4 @@
-# Ola Data Analyst Project
+# Ola Rides: End-to-End Data Analysis & Visualization
 This repository contains a comprehensive data analysis project focused on Ola Cabs' booking data for the city of Bengaluru for the month of July. The project involves data preparation, data loading, exploratory data analysis (EDA) using SQL, and the creation of an interactive dashboard in Power BI to uncover key insights into booking patterns, revenue, cancellations, and customer/driver ratings.
 
 ---
