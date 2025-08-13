@@ -155,6 +155,9 @@ WHERE incomplete_rides='Yes'
 ---
 ## Power BI Dashboard
 An interactive, multi-page dashboard was created in Power BI to visualize the analyzed data. The dashboard is designed to be intuitive and provides deep insights across different aspects of the business.
+
+🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTI5NzRlZjAtZDE2Yi00YWFiLTlkNDMtMjJiYmQxZTVhMjc3IiwidCI6IjY5ZDg3MjIyLTlhMzgtNGY2NC1iMjBjLTgwZTRiOGJhNTgyNiJ9)
+
 1. **Overall View :**
    This page gives a high-level summary of the business, showing total bookings, total booking value, a breakdown of booking statuses, and the ride volume over the month.
    
