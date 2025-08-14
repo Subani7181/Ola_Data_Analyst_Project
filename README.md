@@ -215,6 +215,6 @@ This project is a personal initiative to practice and showcase skills in **Data 
 For queries or collaborations:
 
 - **Email**: [syedmahaboobjani772@gmail.com](mailto:syedmahaboobjani772@gmail.com)
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/syed-mahabub-jani)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/syed-mahabub-jani/)
 
 Thank you!
